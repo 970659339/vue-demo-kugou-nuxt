@@ -2,7 +2,8 @@
 
 ## Live Demo
 
-[live demo](http://lavyun.cn:3030)
+<a href="http://lavyun.cn:3030" target="_blank">live demo</a>
+
 
 ## Build Setup
 
