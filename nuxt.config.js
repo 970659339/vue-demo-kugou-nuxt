@@ -15,6 +15,6 @@ module.exports = {
   ],
   serverMiddleware: [...proxyTable],
   axios: {
-    baseURL: 'http://localhost:3000'
+    baseURL: `http://${process.env.HOST || 'localhost'}:${process.env.PORT || 3000}`
   }
 }
